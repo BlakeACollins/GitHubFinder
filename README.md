@@ -1,3 +1,3 @@
-# GitHubFinder
+# GitHub Finder
 
-Making a GitHub Finder website that will fetch user profiles and the five most recent repos. Practice working with the GitHub API and my JavaScript. 
+Making a GitHub Finder Version 2. This application uses Next and Chakra UI.  
